@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Frontend Tools",
+  "name": "Frontend Tools - 前端開發工具集",
+  "description": "免費線上前端開發工具集，包含 CSS 漸層生成器、顏色選擇器、JSON 格式化工具等實用功能。",
   "icons": [
     {
       "src": "favicon.ico",
@@ -18,8 +19,10 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "/",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#4f46e5",
+  "background_color": "#ffffff",
+  "categories": ["productivity", "developer", "utilities"],
+  "lang": "zh-Hant"
 }

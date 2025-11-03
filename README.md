@@ -1,49 +1,125 @@
-# Getting Started with Create React App
+# Frontend Tools 🛠️
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+免費的前端開發工具集，幫助開發者提高工作效率。
 
-## Available Scripts
+## 🌟 功能特色
 
-In the project directory, you can run:
+### CSS 漸層生成器
+- 支援線性和徑向漸層
+- 多種方向選擇
+- 即時預覽效果
+- 預設漸層模板
+- 一鍵複製 CSS 代碼
 
-### `npm start`
+### 顏色選擇器
+- 支援 HEX、RGB、HSL 格式
+- 即時格式轉換
+- 預設色彩調色盤
+- 顏色資訊顯示
+- 一鍵複製顏色代碼
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### JSON 格式化工具
+- JSON 美化格式化
+- JSON 壓縮優化
+- JSON 格式驗證
+- 詳細錯誤提示
+- 範例 JSON 載入
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Base64 轉換器
+- 文字與 Base64 互轉
+- 支援中文和特殊字符
+- 安全的本地轉換
+- 即時轉換結果
 
-### `npm test`
+### URL 編碼工具
+- URL 編碼和解碼
+- 處理特殊字符
+- 支援中文網址
+- 範例載入功能
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Hash 雜湊生成器
+- 支援 SHA-256、SHA-1、MD5
+- 即時生成雜湊值
+- 資料完整性驗證
+- 多種演算法比較
 
-### `npm run build`
+### 文字計數器
+- 字符數、單字數統計
+- 句子數、段落數分析
+- 閱讀時間估算
+- 詳細文字分析
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 技術棧
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **前端框架**: React 18
+- **路由**: React Router DOM
+- **樣式**: SCSS Modules
+- **SEO**: React Helmet Async
+- **構建工具**: Create React App
+- **部署**: Vercel
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📦 安裝與運行
 
-### `npm run eject`
+```bash
+# 克隆專案
+git clone https://github.com/your-username/frontend-tools.git
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# 進入專案目錄
+cd frontend-tools
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# 安裝依賴
+npm install
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# 啟動開發伺服器
+npm start
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# 構建生產版本
+npm run build
+```
 
-## Learn More
+## 🌐 線上體驗
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+訪問 [https://frontend-tools-c8j2.vercel.app/](https://frontend-tools-c8j2.vercel.app/) 立即使用所有工具。
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📱 響應式設計
+
+完美支援：
+- 桌面電腦
+- 平板設備
+- 手機設備
+
+## 🔒 隱私保護
+
+- 所有處理都在本地進行
+- 不會上傳您的資料到伺服器
+- 無需註冊或登入
+
+## 🎨 設計特色
+
+- 現代化 UI 設計
+- 直觀的用戶體驗
+- 無障礙設計支援
+- 深色模式友好
+
+## 📈 SEO 優化
+
+- 完整的 Meta 標籤
+- Open Graph 支援
+- Twitter Card 支援
+- 結構化資料標記
+- Sitemap 生成
+
+## 🤝 貢獻
+
+歡迎提交 Issue 和 Pull Request！
+
+## 📄 授權
+
+MIT License
+
+## 🙏 致謝
+
+感謝所有使用和支持 Frontend Tools 的開發者們！
 
 ### Code Splitting
 
