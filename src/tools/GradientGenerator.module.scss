@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.inputs {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.preview {
+  height: 128px;
+  width: 100%;
+  border: 1px solid #ccc;
+}
+
+.code {
+  background-color: #f3f3f3;
+  padding: 8px;
+  border-radius: 4px;
+  font-family: monospace;
+}
